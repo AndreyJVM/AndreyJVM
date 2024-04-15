@@ -2,6 +2,12 @@
 
 I`m AQA engineer
 
+---
+
+mail: Andrey.Vorobev.AQA@gmail.com
+Telegram: @AndreyJQA
+
+
 <!--
 **AndreyJVM/AndreyJVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
