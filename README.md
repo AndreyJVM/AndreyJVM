@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I`m AQA engineer
+I`m QA automation engineer
 
 ---
 
