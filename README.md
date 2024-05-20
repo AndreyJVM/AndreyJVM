@@ -18,5 +18,3 @@ I`m developer and QA automation engineer for Java
 | Spring | JUnit | 
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg" title="JUnit"  alt="JUnit" width="55" height="55"/> |
-
-<a href="mailto:Andrey.Vorobev.AQA@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
