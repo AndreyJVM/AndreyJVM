@@ -13,7 +13,7 @@ I`m developer and QA automation engineer for Java
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,git,github,postman,stackoverflow,ansible,bash,ubuntu,docker,cucumber,maven" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,selenium,mysql,git,github,postman,stackoverflow,ansible,bash,ubuntu,docker,maven" />
   </a>
 </p>
 
