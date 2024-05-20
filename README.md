@@ -9,12 +9,11 @@ I`m developer and QA automation engineer for Java
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreyjqa)
 ---
 
-### Languages:
-| Java | Kotlin |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/> |
+### Languages and frameworks:
 
-### Frameworks: 
-| Spring | JUnit | 
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg" title="JUnit"  alt="JUnit" width="55" height="55"/> |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,git,github,postman,stackoverflow,ansible,bash,ubuntu,docker,cucumber,maven" />
+  </a>
+</p>
+
