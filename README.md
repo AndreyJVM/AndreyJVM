@@ -17,4 +17,4 @@ mail: Andrey.Vorobev.AQA@gmail.com
 ### Frameworks: 
 | Spring | JUnit | 
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Spring" alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="JUnit"  alt="JUnit" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-line-wordmark.svg" title="JUnit"  alt="JUnit" width="55" height="55"/> |
