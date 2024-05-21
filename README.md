@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I`m developer and QA automation engineer for Java
+I`m QA automation engineer for Java
 
 ---
 
