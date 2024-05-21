@@ -12,11 +12,9 @@ I`m developer and QA automation engineer for Java
 
 ### Languages and frameworks:
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,selenium,mysql,git,github,postman,stackoverflow,ansible,bash,ubuntu,docker,maven" />
   </a>
-</p>
 
 ### LeetCode:
 https://leetcode.com/u/andreyjvm/
