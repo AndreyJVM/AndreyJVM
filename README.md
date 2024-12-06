@@ -1,5 +1,5 @@
 ### Hello, 👋
-My name is Andrey Vorobev. I`m QA automation engineer Java.
+I`m QA automation engineer Java.
 I improve my professional skills every day.
 
 
