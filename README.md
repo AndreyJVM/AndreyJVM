@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00FF00&amp;height=100&amp;section=header">
 
 ### Hello, 👋
 I`m QA automation engineer (Java).
@@ -15,4 +15,4 @@ I improve my professional skills every day.
 
 Email: Andrey.Vorobev.AQA@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00FF00&amp;height=100&amp;section=footer">
