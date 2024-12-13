@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00FF00&amp;height=100&amp;section=header">
-<h3> 
-  Hello, 👋 
-<h3>
-
-
+<h3> Hello, 👋 <h3>
+  
 I`m QA automation engineer (Java).
 I improve my professional skills every day.
 
@@ -14,9 +11,7 @@ I improve my professional skills every day.
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,selenium,mysql,git,github,postman,stackoverflow,ansible,bash,ubuntu,docker,maven" />
   </a>
 
-<h3>
-  Contacts:
-<h3>
+<h3>Contacts:<h3>
 
 Email: Andrey.Vorobev.AQA@gmail.com
 
