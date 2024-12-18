@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=b07219&amp;height=100&amp;section=header">
-
 ### Hello, 👋
 
 
