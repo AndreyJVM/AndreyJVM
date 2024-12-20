@@ -15,4 +15,4 @@ I improve my professional skills every day.
 
 Email: Andrey.Vorobev.AQA@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=b07219&amp;height=100&amp;section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=3CB371&amp;height=100&amp;section=footer">
