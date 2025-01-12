@@ -2,7 +2,7 @@
 
 
 I`m QA automation engineer (Java).
-I improve my professional skills every day.
+I specialize in automating web applications and API testing using frameworks such as **Selenium** **WebDriver** and **RestAssured**. I have a deep understanding of writing clean and maintainable code, as well as implementing CI/CD best practices.
 
   
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and frameworks:
