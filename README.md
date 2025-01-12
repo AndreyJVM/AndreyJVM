@@ -18,12 +18,12 @@ I specialize in automating web applications and API testing using frameworks suc
 ---
 
 ### _Technologies and tools:_
-- **Java**: 11+
-- **Selenium WebDriver**: for automating web applications
-- **Rest Assured**: for testing the API
-- **JUnit**: for writing and executing tests
-- **Maven** or **Gradle**: for dependency management and project build
-- **CI/CD**: Jenkins, GitLab
+- **Java**: 11+;
+- **Selenium WebDriver**: for automating web applications;
+- **Rest Assured**: for testing the API;
+- **JUnit**: for writing and executing tests;
+- **Maven** or **Gradle**: for dependency management and project build;
+- **CI/CD**: Jenkins, GitLab.
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,selenium,mysql,git,github,postman,ansible,bash,ubuntu,docker,maven,gradle," />
