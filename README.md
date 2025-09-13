@@ -8,7 +8,7 @@ I specialize in infrastructure management, CI/CD pipelines, and cloud solutions,
 ---
 
 ### _Skills:_
-- **Linux/Unix system administration**: Ubuntu, Astra, FreeBSD;
+- **Linux/Unix system administration**: Ubuntu, Astra Linux, FreeBSD;
 
 - **Infrastructure as Code (IaC)**: Ansible, Terraform;
 
@@ -24,12 +24,12 @@ I specialize in infrastructure management, CI/CD pipelines, and cloud solutions,
 
 - **Databases**: MySQL, PostgreSQL, Redis;
 
-- **Version Control**: Git, GitHub/GitLab;
+- **Version Control**: Git;
 
 - **QA/AQA Expertise**.
-  
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,selenium,mysql,git,github,postman,ansible,bash,ubuntu,docker,maven,gradle," />
+    <img src="https://skillicons.dev/icons?i=ubuntu,ansible,jenkins,gitlab,docker,kubernetis,grafana,bash,python,ssh,mysql,java,postman" />
   </a>
 
 ---
