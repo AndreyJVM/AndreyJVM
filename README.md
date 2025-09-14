@@ -32,6 +32,8 @@ I specialize in infrastructure management, CI/CD pipelines, and cloud solutions,
     <img src="https://skillicons.dev/icons?i=linux,ansible,jenkins,gitlab,docker,k8s,grafana,bash,python,mysql,java,postman" />
   </a>
 
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreyJVM&show_icons=true&theme=radical)
+
 ---
 
 ### _Contacts:_
