@@ -33,4 +33,4 @@ Interested in collaboration or need help with DevOps, Linux administration, or t
 
 **Email**: Andrey.Vorobev.AQA@gmail.com
 
-![AndreyJVM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyJVM&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyJVM&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyJVM&layout=compact&theme=radical)
