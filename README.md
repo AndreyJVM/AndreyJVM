@@ -1,7 +1,7 @@
 ### _Welcome!_
 
 
-I'm a **Linux Administrator** | **DevOps Engineer** with a background in QA Automation (Java).
+I'm a **DevOps Engineer** with a background in QA Automation (Java).
 
 I specialize in infrastructure management, CI/CD pipelines, and cloud solutions, while also leveraging my testing expertise to ensure robust and reliable systems.
 
