@@ -6,8 +6,6 @@ I'm a **DevOps Engineer** with a background in QA Automation (Java).
 I specialize in infrastructure management, CI/CD pipelines, and cloud solutions, while also leveraging my testing expertise to ensure robust and reliable systems.
 
 ### _Skills:_
-![](https://skillicons.dev/icons?i=linux,ansible,jenkins,gitlab,docker,k8s,grafana,bash,python,mysql,java,postman)
-
 - **Linux/Unix system administration**: Ubuntu, Astra Linux, FreeBSD;
 
 - **Infrastructure as Code (IaC)**: Ansible, Terraform;
