@@ -12,7 +12,7 @@ I specialize in infrastructure management, CI/CD pipelines, and cloud solutions,
 
 - **CI/CD**: Jenkins, GitLab CI/CD;
 
-- **Containerization & Orchestration**: Docker, Kubernetes;
+- **Containerization & Orchestration**: Podman, Kaniko, Docker, Kubernetes;
 
 - **Monitoring & Logging**: Grafana, ELK Stack;
 
