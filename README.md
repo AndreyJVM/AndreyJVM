@@ -10,7 +10,7 @@ I specialize in infrastructure management, CI/CD pipelines, and cloud solutions,
 
 - **Infrastructure as Code (IaC)**: Ansible, Terraform;
 
-- **CI/CD**: Jenkins, GitLab CI/CD;
+- **CI/CD**: GitHub Action, Jenkins, GitLab;
 
 - **Containerization & Orchestration**: Podman, Kaniko, Docker, Kubernetes;
 
