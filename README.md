@@ -1,4 +1,4 @@
-### _Welcome!_
+### Welcome!
 
 
 I'm a **DevOps Engineer** with a background in QA Automation (Java).
