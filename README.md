@@ -16,7 +16,7 @@ I specialize in infrastructure management, CI/CD pipelines, and cloud solutions,
 
 - **Monitoring & Logging**: Grafana, ELK Stack;
 
-- **Scripting & Automation**: Bash, Python;
+- **Scripting & Automation**: Bash;
 
 - **Networking & Security**: Firewalls, VPN, SSH, Nginx/Apache;
 
