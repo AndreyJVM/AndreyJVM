@@ -5,28 +5,4 @@ I'm a **DevOps Engineer** with a background in QA Automation (Java).
 
 I specialize in infrastructure management, CI/CD pipelines, and cloud solutions, while also leveraging my testing expertise to ensure robust and reliable systems.
 
-### _Skills:_
-- **Linux/Unix system administration**: Ubuntu, Astra Linux, FreeBSD;
-
-- **Infrastructure as Code (IaC)**: Ansible, Terraform;
-
-- **CI/CD**: GitHub Action, Jenkins, GitLab;
-
-- **Containerization & Orchestration**: Podman, Kaniko, Docker, Kubernetes;
-
-- **Monitoring & Logging**: Grafana, ELK Stack;
-
-- **Scripting & Automation**: Bash;
-
-- **Networking & Security**: Firewalls, VPN, SSH, Nginx/Apache;
-
-- **Databases**: MySQL, PostgreSQL, Redis;
-
-- **Version Control**: Git;
-
-- **QA/AQA Expertise**.
-
-### _Contacts:_
 Interested in collaboration or need help with DevOps, Linux administration, or test automation? Feel free to reach out!
-
-**Email**: Andrey.Vorobev.AQA@gmail.com
