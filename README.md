@@ -1,8 +1,3 @@
-### Welcome!
-
-
-I'm a **DevOps Engineer** with a background in QA Automation (Java).
-
-I specialize in infrastructure management, CI/CD pipelines, and cloud solutions, while also leveraging my testing expertise to ensure robust and reliable systems.
-
-Interested in collaboration or need help with DevOps, Linux administration, or test automation? Feel free to reach out!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Automating+resilient+CI%2FCD+pipelines;Engineering+scalable+cloud+infrastructure" alt="Typing SVG" />
+</p>
